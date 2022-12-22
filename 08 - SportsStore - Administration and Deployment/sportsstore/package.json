@@ -25,7 +25,7 @@
     "express": "^4.16.3",
     "faker": "^4.1.0",
     "json-server": "^0.12.1",
-    "jsonwebtoken": "^8.1.1",
+    "jsonwebtoken": "^9.0.0",
     "vue-template-compiler": "^2.5.16"
   },
   "eslintConfig": {
