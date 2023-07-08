@@ -19,10 +19,10 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0-beta.16",
-    "@vue/cli-plugin-eslint": "^3.0.0-beta.16",
-    "@vue/cli-service": "^3.0.0-beta.16",
+    "@vue/cli-plugin-eslint": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "faker": "^4.1.0",
-    "json-server": "^0.12.1",
+    "json-server": "^0.17.3",
     "jsonwebtoken": "^8.1.1",
     "vue-template-compiler": "^2.5.16"
   },
